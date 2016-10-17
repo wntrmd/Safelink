@@ -1,0 +1,2 @@
+# Safelink
+redirect link
